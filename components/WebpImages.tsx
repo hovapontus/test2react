@@ -1,5 +1,5 @@
 export default function WebpImages() {
-  const imageUrls = Array.from({ length: 10 }, (_, i) =>
+  const imageUrls = Array.from({ length: 17 }, (_, i) =>
     `/images/webp/image${i + 1}.webp`
   );
 

@@ -1,5 +1,5 @@
 export default function PngImages() {
-  const imageUrls = Array.from({ length: 10 }, (_, i) =>
+  const imageUrls = Array.from({ length: 17 }, (_, i) =>
     `/images/png/image${i + 1}.png`
   );
 

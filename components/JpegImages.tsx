@@ -1,5 +1,5 @@
 export default function JpegImages() {
-  const imageUrls = Array.from({ length: 10 }, (_, i) =>
+  const imageUrls = Array.from({ length: 17 }, (_, i) =>
     `/images/jpeg/image${i + 1}.jpeg`
   );
 
